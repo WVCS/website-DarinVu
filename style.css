@@ -1,3 +1,15 @@
-body {
 
+  body {
+  background-color: #D4f5f5;
 }
+
+h1 {
+  color: #2A628F;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  border: dashed blue 15px;
+}
+
