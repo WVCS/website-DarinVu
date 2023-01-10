@@ -1,22 +1,16 @@
 body {
   background-color: #D4f5f5;
-  text-align: center; 
 }
 
 h1 {
   color: #2A628F;
   text-align: center;
-}
-
-h2 {
-  color: #2A628F;
-  text-align: center;
-  text-decoration: underline;
+  top: 60px;
 }
 
 img {
   width: 300px;
-  border: dashed blue 15px;
+  border: 15px solid #49a9b7;
 }
 
 nav {
@@ -32,7 +26,8 @@ nav {
 li {
   display: inline;
   padding: 20px;
-  float: right;
+  float: left;
+  top: 0;
 }
 
 li:hover {
